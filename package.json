@@ -1,0 +1,30 @@
+{
+  "name": "prismic-saviour",
+  "version": "0.1.0",
+  "description": "Backups data from a public prismic instance to JSON",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fysiweb/prismic-saviour.git"
+  },
+  "keywords": [
+    "prismic",
+    "prismic.io",
+    "backup"
+  ],
+  "author": "Kierán Meinhardt <kieran@fysi.tech>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fysiweb/prismic-saviour/issues"
+  },
+  "homepage": "https://github.com/fysiweb/prismic-saviour#readme",
+  "dependencies": {
+    "@prismicio/client": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.35"
+  }
+}
