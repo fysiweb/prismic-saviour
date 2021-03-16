@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const Prismic = require("@prismicio/client");
 const process = require("process");
 

@@ -2,7 +2,7 @@
   "name": "prismic-saviour",
   "version": "0.1.0",
   "description": "Backups data from a public prismic instance to JSON",
-  "main": "src/index.js",
+  "bin": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
